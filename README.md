@@ -1,2 +1,2 @@
-# ca863i
+# EV-Purchase-Predictions
 CA683i Data Mining Project
